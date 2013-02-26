@@ -1,4 +1,7 @@
 Obras::Application.routes.draw do
+  resources :funcionarios
+
+
   resources :funcaos
 
 
